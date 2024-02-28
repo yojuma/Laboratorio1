@@ -1,9 +1,9 @@
 #include<iostream>
-#include <ctype.h>
+
 
 using namespace std;
 
-int main(){
+int main3(){
     int dia,mes;
 
     cout<<"Ingrese el numero del dia: "<< endl;
