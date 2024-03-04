@@ -14,7 +14,7 @@ int main7(){
     cout<<endl;
 
     for(int i=1;i<numero;i++){
-        //cout<<f0<<"+"<<f1<< endl;
+
         unsigned int fn=f0+f1;
         f0=f1;
         f1=fn;
